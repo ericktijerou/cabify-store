@@ -8,6 +8,9 @@
 
 CabifyStore built with Jetpack Compose and Hilt based on modern Android tech-stacks and Clean Architecture + MVVM
 
+## Development Setup 🖥
+You will require the latest version of Android Studio(Electric Eel). Download the latest release from [here](https://developer.android.com/studio).
+
 ### 🌞 Light Mode
 
 <img src="/results/home_light.png" width="260">&emsp;<img src="/results/detail_light.png" width="260">

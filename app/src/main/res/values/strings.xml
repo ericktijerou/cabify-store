@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CabifyStore</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_categories">Category</string>
+    <string name="tab_bag">Shopping Bag</string>
+    <string name="tab_feed">Feed</string>
+    <string name="tab_account">Account</string>
+    <string name="empty_screen_title">COMING SOON</string>
+    <string name="label_search_hint">Search products</string>
+    <string name="empty_screen_subtitle">This screen is under construction, but we are ready to go! We are preparing something amazing and exciting for you</string>
+    <string name="label_bag_empty">Your bag is empty</string>
+    <string name="label_checkout">Checkout</string>
+    <string name="label_subtotal">Subtotal</string>
+    <string name="label_saved">Saved</string>
+    <string name="label_summary">Summary</string>
+    <string name="add_to_bag">Add to bag</string>
+    <string name="label_total">Total</string>
+    <string name="label_back">Back</string>
+    <string name="label_share">Share</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="label_close">Close</string>
+</resources>
